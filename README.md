@@ -14,7 +14,7 @@ Osservando le immagini con oltre 20000 numeri risulta che il range è troppo ris
 ## Struttura
 
 ```
-frontend
+Numeri pseudo-casuali
   +-- img // cartella contenente le immagini .png
   |   |   ...
   |    
