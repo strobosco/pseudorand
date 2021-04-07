@@ -6,7 +6,7 @@ import matplotlib.pylab as plt
   
 # definiamo i possibili valori per i numeri da generare, il range e l'offset
 numeri= [100, 1000, 5000, 20000, 50000, 1000000, 1000000];
-range = [10, 50, 100, 500, 1000, 10000, 50000, 100000];
+range = [10, 50, 100, 500, 1000, 10000, 50000, 100000, 10000000];
 offset = [100, 500, 1000];
 
 # iterazione su tutti i possibili valori
