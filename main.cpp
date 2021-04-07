@@ -13,7 +13,7 @@ int main() {
 
   // definiamo i possibili valori per i numeri da generare, il range e l'offset
   int numeri[7] = {100, 1000, 5000, 20000, 50000, 1000000, 1000000};
-  int range [8] = {10, 50, 100, 500, 1000, 10000, 50000, 100000};
+  int range [9] = {10, 50, 100, 500, 1000, 10000, 50000, 100000, 10000000};
   int offset[3] = {100, 500, 1000};
 
   // definiamo la lunghezza degli array
