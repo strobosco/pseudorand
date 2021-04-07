@@ -8,8 +8,9 @@ Le immagini hanno la seguente nomenclatura:
 - Range: 10, 50, 100, 500, 1000, 10000, 50000, 100000
 - Offset: 100, 500, 1000
 
-Per ogni campo sono state calcolate tutte le possibili combinazioni.
-Osservando le immagini con oltre 20000 numeri risulta che il range è troppo ristretto per consentire una dispersione adeguata. Usando un range più ampio è probabile che i numeri si sarebbe dispersi in maggiore quantità. Questo è anche evidente nei casi in cui il range era ristretto poiché si sono create delle linee orizzontali che occupano tutta la larghezza del grafico.
+## Calcolo
+
+Per ogni campo sono state calcolate tutte le possibili combinazioni. Osservando le immagini con oltre 20000 numeri risulta che il range è troppo ristretto per consentire una dispersione adeguata. Usando un range più ampio è probabile che i numeri si sarebbero dispersi in maggiore quantità. Questo è evidente nei casi in cui il range è ristretto poiché si sono create delle linee orizzontali che occupano tutta la larghezza del grafico.
 
 ## Struttura
 
